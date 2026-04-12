@@ -2,7 +2,8 @@
 
 A modern and responsive real estate website built with HTML5, CSS3, and Bootstrap 5.
 
-🔗 [Live Demo](#) <!-- GitHub Pages linkin olursa buraya ekle -->
+🔗 [Live Demo](#) 
+https://hasankoparan.github.io/Emaartech_project/
 
 ---
 
